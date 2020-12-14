@@ -13,6 +13,8 @@ body {
 
 nav {
     background-color: rgb(39, 49, 37);
+    position: sticky;
+    top: 0;
 }
 
 nav ul {
@@ -59,8 +61,7 @@ main {
 }
 .richtpunt {
     position: relative;
-    top: -80px;
-    display: block;
+    top: -50px;
     visibility: hidden;
 }
 section {
